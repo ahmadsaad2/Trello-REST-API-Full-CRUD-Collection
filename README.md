@@ -1,5 +1,5 @@
-**Trello API Automation & Testing Project
-**
+**Trello API Automation & Testing Project**
+
 Automated API testing project for Trello using Postman. This project simulates real-world Trello workflows, performs CRUD operations, and demonstrates automated testing with Postman scripts.
 
 **Project Overview
